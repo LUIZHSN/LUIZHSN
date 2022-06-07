@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Henrique, estudante de programação e tecnologia!
+## Olá! Eu sou o Luiz Henrique, estudante de Programação e Tecnologia!
 <div align="center">
   <a href="https://github.com/LUIZHSN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUIZHSN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
