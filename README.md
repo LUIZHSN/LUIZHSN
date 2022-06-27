@@ -1,4 +1,4 @@
-## Olá eu sou o Luiz Henrique
+## Olá! Eu sou o Luiz Henrique, Estudante de Analise e Desenvolvimento de Sistemas (ADS)
 
 <div align="center">
   <a href="https://github.com/LUIZHSN">
