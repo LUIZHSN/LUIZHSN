@@ -5,11 +5,11 @@ Analista e Desenvolvedor de Sistemas com pós-graduação em Direito Tributário
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,vscode,py" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,vscode,py,python,postgres,html,css,js,docker" />
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUIZHSN&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
