@@ -1,4 +1,23 @@
 ## Hi, I'm Luiz Henrique
+
+# Nome do Projeto
+Uma descrição curta e objetiva (1 a 2 sentenças) sobre o que o projeto faz.
+
+## 🚀 Funcionalidades
+- Funcionalidade 1 (ex.: Automação de leitura de PDFs)
+- Funcionalidade 2 (ex.: Exportação de relatórios em relatórios em Excel/CSV)
+
+## 🛠️ Tecnologias Utilizadas
+- Python 3.10+
+- Pandas / PyPDF2
+- PostgreSQL
+
+## 📦 Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone [https://github.com/LUIZHSN/LUIZHSN.git](https://github.com/LUIZHSN/LUIZHSN.git)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
