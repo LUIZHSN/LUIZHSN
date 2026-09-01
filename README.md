@@ -5,7 +5,7 @@ Analista e Desenvolvedor de Sistemas com pós-graduação em Direito Tributário
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,vscode,py,python,postgres,html,css,js,docker" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,git,linux,bash,vscode,py,python,postgres,html,css,js,docker"/>
   </a>
 </p>
 
